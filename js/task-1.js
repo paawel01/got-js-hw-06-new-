@@ -29,3 +29,4 @@ const customer = {
   console.log(customer.getBalance()); // 19750
   console.log(customer.getOrders()); // ["Burger", "Pizza", "Salad", "Steak"]
   
+  
